@@ -19,24 +19,24 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="iiiiii" width="600">
+    <img src="https://github.com/Vikashpandey98/AtliQ_Hospitality_Analysis_PowerBI/blob/main/dataset/mock%20up%20dashboard_atliq%20grands.png?raw=true" width="600">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='iiii' height="400">
+    <img src='https://github.com/Vikashpandey98/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data%20model.png?raw=true' height="400">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='iiii' width="600">
+    <img src='https://github.com/Vikashpandey98/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/Dashboard%20view.png?raw=true' width="600">
 </p>
 
-
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWQxOTc2NTYtYWUyMS00YjcyLTgyMjUtZTVkZjA4MjkxNTE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=ReportSection)
 
 ## Learnt things from this Project 
 
